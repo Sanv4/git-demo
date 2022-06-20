@@ -8,5 +8,6 @@ package com.xkl.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("java万岁!!!");
+        System.out.println("java万岁2!!!");
     }
 }
