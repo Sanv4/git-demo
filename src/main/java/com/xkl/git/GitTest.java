@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("java万岁!!!");
         System.out.println("java万岁2!!!");
         System.out.println("java万岁3!!!");
+        System.out.println("java万岁4!!!");
     }
 }
